@@ -6,6 +6,7 @@ body {
 }
 #big-bar{
   background-color:black;
+  padding:20px;
   width:600px;
   height:400px;
   
