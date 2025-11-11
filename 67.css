@@ -6,9 +6,12 @@ body {
 #big-bar{
   background-color:black;
   background-color:top;
-  display:block;
-  
-  
+  padding:10px;
+  display:block;  
+}
+portugal{
+  color:white;
+  postion:top,left;
 }
   
   
