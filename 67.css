@@ -1,12 +1,12 @@
 body {
   background-color:blue;
   background-position:center;
-  width:100%;
-  height:67%
+  margin:0px;
 }
 #big-bar{
   background-color:black;
-  margin:8px;
+  background-color:top;
+  
   
 }
   
